@@ -3,7 +3,7 @@ Making embroidery data by Illustrator.
 
 イラストレーターから刺繍ファイルを書き出すプロジェクト。
 
-##Lisence
+##License
 
 Copyright (c) 2015 Kaoru Matsumoto
 
